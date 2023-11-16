@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Yurii
-Welcome to gitgub page
+Welcome to my github page
 
 <!--
 **urio999/urio999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
