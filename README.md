@@ -1,4 +1,6 @@
 ### Hi there 👋, I'm Yurii
+
+### Aspiring Java Developer
 Welcome to my github page
 
 <!--
