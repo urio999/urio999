@@ -1,5 +1,5 @@
 <h2 align="center">Hi there 👋, I'm Yurii</h2>
-<h3 align="center">Aspiring Java Developer</h3>
+<h3 align="center">Trainee Java Developer</h3>
 
 <h4 align="center">Welcome to my github page</h4>
 
